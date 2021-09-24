@@ -7,5 +7,5 @@
 1. а дальше
 2. он **упал**
 >*Чем хуже тем лучше* (с) В.И. Ленин
-[DZ1](ethiopia_cils/domashka)
+[DZ1](ethiopia_cils/domashka.md)
 
