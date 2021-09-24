@@ -7,4 +7,4 @@
 1. а дальше
 2. он **упал**
 >*Чем хуже тем лучше* (с) В.И. Ленин
-[DZ1](alekseylifanov333.github.io/ethiopia_cils/dz/domashka.md)
+[DZ1](dz/domashka.md)
